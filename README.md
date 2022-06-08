@@ -1,5 +1,7 @@
-# IRproject
+# IRproject 
+*master*
 It's an Information Retreval System , with 2 datasets .
+
 
 Make Text preprocessing to dataset ,after choice it , contain : stemming & lemmatizing .
 Make vectores using TF - IDF , Count word
